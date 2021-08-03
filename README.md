@@ -13,6 +13,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -50,3 +51,7 @@ As with every project this is not complete. It can be improved to look exactly l
 - Frontend Mentor - [@iulian-cenusa](https://www.frontendmentor.io/profile/iulian-cenusa)
 - Twitter - [@IulianCenusa](https://twitter.com/IulianCenusa)
 - Other Projects - [Bitbucket Repo](https://bitbucket.org/iulian_cenusa/)
+
+## Acknowledgments
+
+- [Ahmed Faisal](https://github.com/afrussel/) - he helped me with background images issue
