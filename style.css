@@ -57,8 +57,9 @@ img{
     align-items: center;
 }
 
-#name span{
+#name h1{
     font-weight: 700;
+    font-size: 18px;
     color: hsl(229, 23%, 23%);
     margin: 0 0.5em 0 0;
 }
